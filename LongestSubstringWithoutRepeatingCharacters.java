@@ -30,3 +30,6 @@ class Solution {
         return max;
     }
 }
+\\Your runtime beats 98.38 % of java submissions.
+\\Varies greatly because randomness of HashMap.
+
